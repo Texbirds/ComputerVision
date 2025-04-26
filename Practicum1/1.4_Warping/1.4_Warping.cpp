@@ -7,7 +7,7 @@ Mat matrix, imgWarp;
 
 int main()
 {
-    cv::Mat img = cv::imread("../images/notwarpedyet.jpg");
+    cv::Mat img = cv::imread("../../images/notwarpedyet.jpg");
     cv::Mat imgResized;
     float scale = 0.5; 
 

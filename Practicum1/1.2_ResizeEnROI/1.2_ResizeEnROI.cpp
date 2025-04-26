@@ -10,7 +10,7 @@
 int main()
 {
     // Laad originele afbeelding
-    cv::Mat img = cv::imread("../images/landscape.jpg");
+    cv::Mat img = cv::imread("../../images/landscape.jpg");
 
     // Resize (bijvoorbeeld verkleinen naar 50%)
     cv::Mat imgResized;

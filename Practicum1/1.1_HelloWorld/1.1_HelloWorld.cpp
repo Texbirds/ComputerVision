@@ -9,7 +9,7 @@
 
 int main()
 {
-    auto img = cv::imread("../images/landscape.jpg");
+    auto img = cv::imread("../../images/landscape.jpg");
     cv::imshow("My Image", img);
     cv::waitKey();
 }

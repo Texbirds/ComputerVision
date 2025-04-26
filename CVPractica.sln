@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1_HelloWorld", "1.1_HelloWorld\1.1_HelloWorld.vcxproj", "{2CF960CC-AAF2-4D1D-8122-2EAC8EEB1C11}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1_HelloWorld", "Practicum1\1.1_HelloWorld\1.1_HelloWorld.vcxproj", "{2CF960CC-AAF2-4D1D-8122-2EAC8EEB1C11}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2_ResizeEnROI", "1.2_ResizeEnROI\1.2_ResizeEnROI.vcxproj", "{F82E23AD-FAD2-4866-A657-7D7DC7357EC5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2_ResizeEnROI", "Practicum1\1.2_ResizeEnROI\1.2_ResizeEnROI.vcxproj", "{F82E23AD-FAD2-4866-A657-7D7DC7357EC5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3_Tekst", "1.3_Tekst\1.3_Tekst.vcxproj", "{D17D0203-C35A-40EA-B49B-92058E103B95}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3_Tekst", "Practicum1\1.3_Tekst\1.3_Tekst.vcxproj", "{D17D0203-C35A-40EA-B49B-92058E103B95}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.4_Warping", "1.4_Warping\1.4_Warping.vcxproj", "{36773BE6-340D-4E72-B099-45F07336BCC0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.4_Warping", "Practicum1\1.4_Warping\1.4_Warping.vcxproj", "{36773BE6-340D-4E72-B099-45F07336BCC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practicum1", "Practicum1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,6 +56,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2CF960CC-AAF2-4D1D-8122-2EAC8EEB1C11} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F82E23AD-FAD2-4866-A657-7D7DC7357EC5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D17D0203-C35A-40EA-B49B-92058E103B95} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{36773BE6-340D-4E72-B099-45F07336BCC0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8821EEA4-99E3-4915-B5E2-E944FD3A522B}
