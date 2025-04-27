@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practicum3", "Practicum3", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2_FaceDetection", "Practicum3\3.2_FaceDetection\3.2_FaceDetection.vcxproj", "{B0DEE5E7-E683-4761-B0B2-24694117CD57}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eindopdracht", "Eindopdracht\Eindopdracht.vcxproj", "{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -87,6 +89,14 @@ Global
 		{B0DEE5E7-E683-4761-B0B2-24694117CD57}.Release|x64.Build.0 = Release|x64
 		{B0DEE5E7-E683-4761-B0B2-24694117CD57}.Release|x86.ActiveCfg = Release|Win32
 		{B0DEE5E7-E683-4761-B0B2-24694117CD57}.Release|x86.Build.0 = Release|Win32
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Debug|x64.ActiveCfg = Debug|x64
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Debug|x64.Build.0 = Debug|x64
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Debug|x86.Build.0 = Debug|Win32
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Release|x64.ActiveCfg = Release|x64
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Release|x64.Build.0 = Release|x64
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Release|x86.ActiveCfg = Release|Win32
+		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,6 +108,7 @@ Global
 		{36773BE6-340D-4E72-B099-45F07336BCC0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{98AC072A-4E54-4D1E-9983-6FEB8B0948FA} = {393C3313-9C1D-4B9E-A203-AEC8CA1EE2BE}
 		{2F0A7E42-E76E-4B9D-9548-DB85A6812065} = {393C3313-9C1D-4B9E-A203-AEC8CA1EE2BE}
+		{B0DEE5E7-E683-4761-B0B2-24694117CD57} = {BE171210-352B-44BF-BAD0-7DE028B888DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8821EEA4-99E3-4915-B5E2-E944FD3A522B}
