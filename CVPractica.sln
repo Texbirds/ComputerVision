@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2_FaceDetection", "Practi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Eindopdracht", "Eindopdracht\Eindopdracht.vcxproj", "{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.3_BinaireMorfologie", "Practicum2\2.3_BinaireMorfologie\2.3_BinaireMorfologie.vcxproj", "{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -97,6 +99,14 @@ Global
 		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Release|x64.Build.0 = Release|x64
 		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Release|x86.ActiveCfg = Release|Win32
 		{1BD654E5-786C-47E6-A9DE-4BF1FC16506C}.Release|x86.Build.0 = Release|Win32
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Debug|x64.ActiveCfg = Debug|x64
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Debug|x64.Build.0 = Debug|x64
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Debug|x86.Build.0 = Debug|Win32
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Release|x64.ActiveCfg = Release|x64
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Release|x64.Build.0 = Release|x64
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Release|x86.ActiveCfg = Release|Win32
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +119,7 @@ Global
 		{98AC072A-4E54-4D1E-9983-6FEB8B0948FA} = {393C3313-9C1D-4B9E-A203-AEC8CA1EE2BE}
 		{2F0A7E42-E76E-4B9D-9548-DB85A6812065} = {393C3313-9C1D-4B9E-A203-AEC8CA1EE2BE}
 		{B0DEE5E7-E683-4761-B0B2-24694117CD57} = {BE171210-352B-44BF-BAD0-7DE028B888DB}
+		{23BBCB1B-E14B-4EE0-8E2F-344DF68992B9} = {393C3313-9C1D-4B9E-A203-AEC8CA1EE2BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8821EEA4-99E3-4915-B5E2-E944FD3A522B}
